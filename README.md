@@ -1,36 +1,30 @@
 <div align="center">
 
-# Hi, I'm Cathy 👋🏻
+# Hola, soy Cathy 👋🏻
 
-### UX/UI Designer × Frontend Developer
+### Diseñadora UX/UI × Frontend Developer
 
-Designing interfaces, building experiences & learning along the way ✨
-
-📍 Chile &nbsp;•&nbsp; 🎨 Design &nbsp;•&nbsp; 💻 Frontend &nbsp;•&nbsp; 🌎 Always learning
+🎨 Diseño &nbsp;•&nbsp; 💻 Frontend &nbsp;•&nbsp; ✨ Creatividad &nbsp;•&nbsp; 🌎 Siempre aprendiendo
 
 </div>
 
 ---
 
-### ✦ About me
+### ✦ Sobre mí
 
-I'm a Digital Designer working at the intersection of **UX/UI and Frontend Development**.
+Soy diseñadora digital y también trabajo con desarrollo frontend. 🎨💻
 
-I enjoy turning ideas into interfaces that are not only visually thoughtful, but also functional and buildable. Currently, I'm working with **Angular & TypeScript** while continuing to grow as a frontend developer.
+Siempre me ha gustado crear cosas, y con el tiempo pasé de diseñar interfaces a querer entender cómo funcionaban y poder construirlas también. Actualmente trabajo principalmente con **Angular y TypeScript**, combinando lo que sé de diseño y UX/UI con código.
+
+Sigo aprendiendo todos los días, probando herramientas nuevas y disfrutando bastante ese punto entre diseñar y programar. ✨
 
 ---
 
-### ✦ My toolbox
+### ✦ Tecnologías y herramientas
 
 <div align="center">
 
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-000000?style=for-the-badge&logo=affinity&logoColor=white)
-
-**Frontend**
+#### 💻 Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,51 +33,64 @@ I enjoy turning ideas into interfaces that are not only visually thoughtful, but
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools**
+#### 🎨 Diseño & UX/UI
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-000000?style=for-the-badge&logo=affinity&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+
+#### 🛠️ Desarrollo
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+#### 🤖 IA & productividad
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
 ---
 
-### ✦ What I'm up to
+### ✦ Actualmente
 
-🌱 Growing my **Frontend Development** skills  
-💻 Building interfaces with **Angular & TypeScript**  
-🎨 Bringing my **design background into code**  
-🤖 Exploring **AI-assisted design & development**  
-🇬🇧 Improving my **English**
+💻 Trabajando con **Angular y TypeScript**  
+🎨 Combinando **UX/UI y desarrollo frontend**  
+🧩 Creando y mejorando interfaces para aplicaciones web  
+🤖 Explorando nuevas formas de integrar **IA en diseño y desarrollo**  
+🌱 Aprendiendo y fortaleciendo mis habilidades frontend  
+🇬🇧 Mejorando mi inglés
+
+---
+
+### ✦ Fuera de la pantalla
+
+Cuando no estoy diseñando o programando, probablemente estoy corriendo, leyendo, planeando algún viaje o pasando tiempo con Aurora. 🐈
+
+Me gustan la playa, la naturaleza y descubrir cosas nuevas. 🌊🌿
 
 ---
 
 <div align="center">
 
-### Let's connect ♡
+### ✦ Conectemos
 
-[Portfolio](https://catherine-rebolledo.vercel.app) ·
-[Behance](https://www.behance.net/cathyrebolledo) ·
-[LinkedIn](https://www.linkedin.com/in/catherine-rebolledo-pastene)
+[**Portfolio**](https://catherine-rebolledo.vercel.app) &nbsp;•&nbsp;
+[**Behance**](https://www.behance.net/cathyrebolledo) &nbsp;•&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/catherine-rebolledo-pastene)
 
 <br>
 
-*Thanks for stopping by ✦*
+**Diseño × Código × Curiosidad ✦**
 
-</div>## Hi there 👋
-
-<!--
-**cathy-98/cathy-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
