@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1942" height="809" alt="image" src="https://github.com/user-attachments/assets/92ffcfde-0673-4ad4-8dbf-a2d7d581a1ec" />
 
 # Hola, soy Cathy 👋🏻
 
